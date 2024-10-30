@@ -2,8 +2,9 @@
 
 - User profile: 
 
-- Information architecture:
-  La pàgina està dividida en dues seccions: el panel principal i el lateral. Els dos panels contenen informació relevant, però   un està dedicat a dades llargues i l'altre a dades mès curtes.
+- Information architecture:<br/>
+  La pàgina està dividida en dues seccions: el panel principal i el lateral. Els dos panels contenen informació            
+  relevant, però   un està dedicat a dades llargues i l'altre a dades mès curtes.<br/>
   El panel lateral té tres blocs 
 
 - Visual design:
