@@ -1,8 +1,10 @@
 # Hypermedia-project-part1
 
-- User profile:
+- User profile: 
 
 - Information architecture:
+  La pàgina està dividida en dues seccions: el panel principal i el lateral. Els dos panels contenen informació relevant, però   un està dedicat a dades llargues i l'altre a dades mès curtes.
+  El panel lateral té tres blocs 
 
 - Visual design:
 
