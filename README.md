@@ -14,7 +14,9 @@
         Information architecture:
         <p>La pàgina està dividida en dues seccions: el panel principal i el lateral. Els dos panels contenen informació 
            relevant, però un està dedicat a dades llargues i l'altre a dades mès curtes.<br/>
-           El panel lateral té quatre blocs: el primer per contenir la foto de perfil del <i>CV</i>, 
+           El panel lateral té quatre blocs: el primer per contenir la foto de perfil del <i>CV</i>, el segon per
+           la informació de contacte, el tercer pel nivell d'educació de la persona i l'últim pels idiomes que sap la
+           persona.
         </p>
       </li>
       <li>
