@@ -38,10 +38,14 @@
       </li>
       <li>
         Visual design:
-        <p></p>
+        <p>
+          La paleta de colors escollida és una combinació de blau fosc i blanc. També s'utilitza un gris clar pel contingut de
+          l'experiència laboral, però predomina molt poc.<br/>
+        
+        </p>
       </li>
       <li>
-        Figma link: https://www.figma.com/design/yPQk1T9D8AJGpPLH6R7TbE/MM.-Sorin-Chiperi?node-id=13-2
+        Figma link: https://www.figma.com/design/yPQk1T9D8AJGpPLH6R7TbE/MM.-Sorin-Chiperi?node-id=13-2&t=ESofBYR1k5CiZBIe-1
       </li>
       <li>
         Github page: https://soriinnnn.github.io
