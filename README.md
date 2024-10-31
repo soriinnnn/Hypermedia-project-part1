@@ -43,8 +43,11 @@
           i modern que s'adapta a aquest tipus de document.
         </p>
         <p>
-          Per la tipologia, he anat amb la font <i>Lato</i>, ja que és clara, llegible i agradable a la vista. La lectura és fa menys 
-          pesada d'aquesta manera. Els títols, subtítols i el cos del text utilitzen diferents tamanys per organitzar millor la informació.
+          Per la tipologia, he anat amb la font <i>Lato</i>, ja que es clara, llegible i agradable a la vista. La lectura és fa menys 
+          pesada d'aquesta manera. Els títols, subtítols i el cos del text utilitzen diferents mides per organitzar millor la informació.
+        </p>
+        <p>
+          L'estructura és molt simple, no hi ha molt per explicar. És una columna lateral pel perfil i informació de contacte i una secció amplia              pel contingut principal. La columna ocupa un 30% de la mida horitzontal de la pantalla aproximada i el panel principal el 70% restant.
         </p>
       </li>
       <li>
