@@ -19,7 +19,7 @@
           El panel principal té tres blocs:<br/>
           - El primer s'utilitza per mostrar el nom i la professió/ocupació actual de la persona propietària del currículum. 
             També es podria afegir una petita introducció/descripció en aquest apartat, no existeix cap inconvenient.<br/>
-          - El segon conté la seva experiència laboral.
+          - El segon conté la seva experiència laboral.<br/>
           - Per últim, el tercer es per indicar les habilitats que el propietari té i considera importants pel treball al
             que vol aspirar.
         </p>
