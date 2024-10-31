@@ -9,7 +9,8 @@
         User profile:
         <p>
           L'usuari final és una empresa o més concretament la persona que s'encarrega de reclutar a nous membres/empleats per l'empresa.<br/>
-          El que espera veure és informació relacionada amb el propietari del currículum que sigui verdadera i que 
+          El que espera veure és informació relacionada amb el propietari del currículum que sigui verdadera i que expliqui les seves habilitats i el
+          seu recorregut en el món laboral.
         </p>
       </li>
       <li>
