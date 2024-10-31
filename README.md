@@ -19,7 +19,7 @@
           El panel principal té tres blocs:<br/>
           - El primer s'utilitza per mostrar el nom i la professió/ocupació actual de la persona propietària del currículum. 
             També es podria afegir una petita introducció/descripció en aquest apartat, no existeix cap inconvenient.<br/>
-          - El segon conté la seva experiència laboral.<br/>
+          - El segon conté la seva experiència laboral; els llocs a on va treballar (o treballa), el temps que ha treballat, etc.<br/>
           - Per acabar, el tercer és per indicar les habilitats que el propietari té i considera importants pel treball al
             qual vol aspirar. Aquestes habilitats es poden aprofundir afegint un text al costat explicant per què considera 
             que les té o qualsevol altra cosa que cregui convenient.
@@ -28,7 +28,8 @@
           El panel lateral té quatre blocs:<br/>
           - El primer és un contenidor de la foto de perfil.<br/> 
           - El segon conté la informació de contacte (número de telèfon, email, ...).<br/>
-          - El tercer es per mostrar el seu nivell educatiu, indicant també el lloc a on i el moment en el temps de quan es va assolir.
+          - El tercer  
+          El tercer es per mostrar el seu nivell educatiu, indicant també el lloc a on i el moment en el temps de quan es va assolir.
           - 
           l'últim pels idiomes.
         </p>
