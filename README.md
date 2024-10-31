@@ -40,7 +40,7 @@
         Visual design:
         <p>
           La paleta de colors escollida és una combinació de blau fosc i blanc. També s'utilitza un gris clar pel contingut de
-          l'experiència laboral, però predomina molt poc.<br/>
+          l'experiència laboral, però predomina molt poc.
         
         </p>
       </li>
