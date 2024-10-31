@@ -40,9 +40,11 @@
         Visual design:
         <p>
           La paleta de colors escollida és una combinació de blau fosc i blanc que predominen la pàgina. És un esquema professional
-          i modern que s'adapta a aquest tipus de document.<br/>
+          i modern que s'adapta a aquest tipus de document.
+        </p>
+        <p>
           Per la tipologia, he anat amb la font <i>Lato</i>, ja que és clara, llegible i agradable a la vista. La lectura és fa menys 
-          pesada d'aquesta manera. Els títols, subtítos i el cos del text utilitzen diferents tamanys per organitzar millor la informació.
+          pesada d'aquesta manera. Els títols, subtítols i el cos del text utilitzen diferents tamanys per organitzar millor la informació.
         </p>
       </li>
       <li>
