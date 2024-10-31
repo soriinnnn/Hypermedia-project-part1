@@ -27,7 +27,7 @@
         <p>
           El panel lateral té quatre blocs:<br/>
           - El primer és un contenidor de la foto de perfil.<br/> 
-          - El segon conté la informació de contacte (número de telèfon, email...).<br/>
+          - El segon conté la informació de contacte (número de telèfon, email,...).<br/>
           - El tercer conté els estudis realitzats o que estan pendents per completar. L'ordre és de més recent a més antic.<br/>
           - Finalment, el quart conté els idiomes dels quals, almenys, es té un nivell acceptable.
         </p>
