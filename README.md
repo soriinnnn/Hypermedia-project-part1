@@ -13,7 +13,7 @@
         Information architecture:
         <p>
           La pàgina està dividida en dues seccions: el panel principal i el lateral. Els dos panels contenen informació 
-          relevant, però un està dedicat a dades llargues (contingut mès extens) i l'altre a dades curtes.
+          rellevant, però un està dedicat a dades llargues (contingut més extens) i l'altre a dades curtes.
         </p>
         <p>
           El panel principal té tres blocs:<br/>
