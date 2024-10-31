@@ -21,7 +21,8 @@
             També es podria afegir una petita introducció/descripció en aquest apartat, no existeix cap inconvenient.<br/>
           - El segon conté la seva experiència laboral.<br/>
           - Per acabar, el tercer és per indicar les habilitats que el propietari té i considera importants pel treball al
-            qual vol aspirar.
+            qual vol aspirar. Aquestes habilitats es poden aprofundir afegint un text al costat explicant perquè considera
+            que les té o qualsevol altre cosa que cregui convenient.
         </p>
         <p>
           El panel lateral té quatre blocs:<br/>
