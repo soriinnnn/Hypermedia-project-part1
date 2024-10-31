@@ -28,10 +28,8 @@
           El panel lateral té quatre blocs:<br/>
           - El primer és un contenidor de la foto de perfil.<br/> 
           - El segon conté la informació de contacte (número de telèfon, email, ...).<br/>
-          - El tercer  
-          El tercer es per mostrar el seu nivell educatiu, indicant també el lloc a on i el moment en el temps de quan es va assolir.
-          - 
-          l'últim pels idiomes.
+          - El tercer conté els estudis realitzats o que están pendents per completar. L'ordre és de més recent a més antic.<br/>
+          - Finalment, el quart .
         </p>
       </li>
       <li>
