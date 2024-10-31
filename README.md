@@ -24,8 +24,11 @@
             qual vol aspirar.
         </p>
         <p>
-          El panel lateral té quatre blocs: el primer per contenir la foto de perfil del <i>CV</i>, el segon per
-          la informació de contacte, el tercer pel nivell educatiu i l'últim pels idiomes.
+          El panel lateral té quatre blocs:<br/>
+          - el primer per contenir la foto de perfil del <i>CV</i> <br/>
+          - el segon per la informació de contacte <br/>
+          - el tercer pel nivell educatiu <br/>
+          - l'últim pels idiomes.
         </p>
       </li>
       <li>
