@@ -13,7 +13,14 @@
         Information architecture:
         <p>
           La pàgina està dividida en dues seccions: el panel principal i el lateral. Els dos panels contenen informació 
-          relevant, però un està dedicat a dades llargues i l'altre a dades mès curtes.
+          relevant, però un està dedicat a dades llargues (contingut mès extens) i l'altre a dades curtes.
+        </p>
+        <p>
+          El panel principal té tres blocs:<br/>
+          - El primer s'utilitza per mostrar el nom i la professió/ocupació actual de la
+          persona propietària del currículum. També es podria afegir una petita introducció/descripció en aquest apartat,
+          no existeix cap inconvenient.<br/>
+          El segon e
         </p>
         <p>
           El panel lateral té quatre blocs: el primer per contenir la foto de perfil del <i>CV</i>, el segon per
