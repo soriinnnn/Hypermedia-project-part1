@@ -17,8 +17,7 @@
         </p>
         <p>
           El panel lateral té quatre blocs: el primer per contenir la foto de perfil del <i>CV</i>, el segon per
-          la informació de contacte, el tercer pel nivell d'educació de la persona i l'últim pels idiomes que sap la
-          persona.
+          la informació de contacte, el tercer pel nivell educatiu i l'ùltim pels idiomes.
         </p>
       </li>
       <li>
