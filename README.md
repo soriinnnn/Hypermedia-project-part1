@@ -11,7 +11,7 @@
       </li>
       <li>
         Information architecture:
-        <p style="margin: 0% 0% 0% 0%; padding: 0% 0% 0% 0%;">
+        <p style="margin: -5% 0% 0% 0%; padding: 0% 0% 0% 0%;">
           La pàgina està dividida en dues seccions: el panel principal i el lateral. Els dos panels contenen informació 
           relevant, però un està dedicat a dades llargues i l'altre a dades mès curtes.
         </p>
