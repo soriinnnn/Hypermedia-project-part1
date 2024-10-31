@@ -8,7 +8,7 @@
       <li>
         User profile:
         <p>
-          L'usuari final és una empresa o més concretament la persona que s'encarrega de reclutar a nous membres/empleats.<br/>
+          L'usuari final és una empresa o més concretament la persona que s'encarrega de reclutar a nous membres/empleats per l'empresa.<br/>
           El que espera veure és informació relacionada amb el propietari del currículum que sigui verdadera i que 
         </p>
       </li>
