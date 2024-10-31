@@ -39,8 +39,9 @@
       <li>
         Visual design:
         <p>
-          La paleta de colors escollida és una combinació de blau fosc i blanc. També s'utilitza un gris clar pel contingut de
-          l'experiència laboral, però predomina molt poc.
+          La paleta de colors escollida és una combinació de blau fosc i blanc que predominen la pàgina. És un esquema professional
+          i modern que s'adapta a aquest tipus de document. Per la tipologia, he anat amb la font <i>Lato</i>, ja que és molt clara
+          i llegible.
         </p>
       </li>
       <li>
